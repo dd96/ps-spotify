@@ -1,4 +1,4 @@
-Function Set-SpotifyConnectVolume {
+Function Set-SpotifyConnectShuffle {
     <#
         .SYNOPSIS
             Toggle shuffle on or off for user’s playback.
