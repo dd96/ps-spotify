@@ -1,4 +1,4 @@
-Function Set-SpotifyConnectShuffle {
+Function Set-SpotifyConnectPlayer {
     <#
         .SYNOPSIS
             Transfer playback to one or more Spotify Connect devices.
